@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">No Assembly Required</string>
+    <string name="choose">Choose your project</string>
+    <string name="bikeTools">Tools required for bicycle assembly</string>
+    <string name="dresserTools">Tools required for dresser assembly</string>
+    <string name="patioTools">Tools required for patio assembly</string>
+    <string-array name="bikeToolArray">
+        <item>Hex (Allen) Wrenches</item>
+        <item>Pedal Wrench</item>
+        <item>Cable Cutters</item>
+        <item>Bike Grease</item>
+        <item>Bike Stand</item>
+        <item>Bike Pump</item>
+        <item>Screw Drivers</item>
+        <item>Tire Levers</item>
+        <item>Torx Keys</item>
+        <item>Chain Breaker</item>
+    </string-array>
+
+    <string-array name="patioToolsArray">
+        <item>Tape Measure</item>
+        <item>Level</item>
+        <item>Chalk Line</item>
+        <item>Framing Square</item>
+        <item>Clamps</item>
+        <item>Post Hole Digger</item>
+        <item>Crescent Wrenches</item>
+        <item>Circular Saw</item>
+        <item>Reciprocating Saw</item>
+        <item>Miter Saw</item>
+        <item>Utility Knife</item>
+        <item>Chisels</item>
+        <item>Hammer</item>
+        <item>Cordless Drill</item>
+    </string-array>
+
+    <string-array name="dresserToolsArray">
+        <item>Hex (Allen) Wrench</item>
+        <item>Screwdriver</item>
+        <item>Hammer</item>
+    </string-array>
+</resources>
